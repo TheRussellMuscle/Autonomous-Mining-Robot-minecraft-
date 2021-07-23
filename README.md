@@ -1,5 +1,6 @@
 # Autonomous Mining Robot (minecraft / computer craft)
 My first robot autonomy program from high school. Circa 2015.
+Please forgive my egregious style errors and spelling mistakes.
 
 MineSlaveOS.lua was designed to be run on a turtle.
 MineControlConsoleOS.lua was designed to be run on a computer.
